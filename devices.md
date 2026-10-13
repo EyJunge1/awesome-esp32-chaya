@@ -135,7 +135,7 @@ ESP32-C3 RISC-V development board with Wi-Fi, Bluetooth LE, native USB and batte
 
 ## Seeed Studio XIAO ESP32S3
 
-ESP32-S3 development board in Seeed Studio's compact XIAO form factor, with Wi-Fi, Bluetooth LE and native USB on its USB-C port.
+ESP32-S3 development board in Seeed Studio's compact XIAO form factor, with Wi-Fi and native USB on its USB-C port.
 [Getting started](https://wiki.seeedstudio.com/xiao_esp32s3_getting_started/)
 
 ## ESP32-C3-DevKitM-1
