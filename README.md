@@ -39,6 +39,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp32-ai TinyPoems](https://github.com/jeonghopark/esp32-ai) - Runs a tiny poem language model locally on an M5Stack StickS3 and displays generated poems on its LCD. `M5StickS3`
 - [Codex Microphone](https://github.com/seichris/codex-microphone) - Physical Codex Desktop attention inbox and privacy-gated USB or paired Wi-Fi microphone companion for a Waveshare ESP32-S3-Touch-AMOLED-2.06. ([demo](https://github.com/seichris/codex-microphone/blob/main/docs/codex-mic-github.jpg)) `Waveshare ESP32-S3-Touch-AMOLED-2.06`
 - [Code Familiar](https://github.com/rcostache230/code-familiar) - Round-screen desk companion for Codex and Claude Code that shows task activity, permission requests, usage windows, and recent events through a local macOS bridge. ([demo](https://github.com/rcostache230/code-familiar/blob/main/design/audit/01-physical-portal-v1.png)) `Waveshare ESP32-S3-Touch-AMOLED-1.75`
+- [claude-smalltv-pets](https://github.com/kkarkos/claude-smalltv-pets) - Desk pet for Claude Code: one procedurally drawn pixel pet per session showing what it is doing, subagents as helper pets, and permission prompts allowed or denied with the touch pad, flashed over the stock firmware's Wi-Fi update page. ([demo](https://github.com/user-attachments/assets/a812b381-71ca-40db-b9f0-6ca0a5309504)) `GeekMagic SmallTV Pro`
 
 ### Displays & ambient
 

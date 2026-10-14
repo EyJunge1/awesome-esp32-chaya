@@ -144,6 +144,11 @@ The "Cheap Yellow Display": an ESP32-WROOM-32 with a 2.8-inch 320x240 resistive 
 [Product page](https://www.makerfabs.com/sunton-esp32-2-8-inch-tft-with-touch.html) ·
 [community documentation](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
+## GeekMagic SmallTV Pro
+
+Classic ESP32 with 8 MB flash behind a 1.54-inch 240x240 ST7789 IPS screen, a capacitive touch pad on top of the case, and USB-C for power only (no USB data), so firmware goes on over the stock firmware's Wi-Fi update page.
+[Product page](https://geekmagic.com/products/geekmagic-ultra)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
