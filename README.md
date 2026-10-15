@@ -107,6 +107,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [MicroPython](https://github.com/micropython/micropython) - Python on the chip, with first-class ESP32 support.
 - [ESPHome](https://github.com/esphome/esphome) - Describe a device in YAML, get firmware; the default way ESP32s enter Home Assistant.
 - [Family mruby](https://github.com/family-mruby/family-mruby) - Multitasking OS running mruby, MicroPython, Lua and BASIC on the chip, with a windowed desktop and an on-device editor. ([demo](https://www.youtube.com/watch?v=9vkRaOoxJJI)) `M5Stack Tab5` or `Narya board`
+- [OnlyClaws ESP](https://github.com/shinjiyu/onlyclaws-esp) - Firmware you flash once, after which an AI agent deploys Lua apps to the board over HTTP to draw on the screen, play sound, read sensors and report events back. ([demo](https://www.bilibili.com/video/BV179p76zEQN/)) `Waveshare ESP32-S3-RLCD-4.2`
 
 ### Utilities & SDKs
 
