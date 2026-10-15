@@ -47,6 +47,12 @@ ESP32-S3R8, 172x640 capacitive touch LCD, audio codecs, microphones, speaker out
 QMI8658 6-axis IMU, PCF85063 RTC and lithium polymer battery support.
 [Product page](https://www.waveshare.com/esp32-s3-touch-lcd-3.49.htm)
 
+## Waveshare ESP32-S3-RLCD-4.2
+
+ESP32-S3 (WROOM-1-N16R8), 4.2-inch 400x300 reflective LCD (ST7305), ES8311 audio codec,
+temperature and humidity sensor, battery support.
+[Product page](https://www.waveshare.com/esp32-s3-rlcd-4.2.htm)
+
 ## Waveshare RP2350-Touch-AMOLED-1.8
 
 The same 368x448 touch AMOLED shell as the ESP32-S3 board, on an RP2350 instead. Present
