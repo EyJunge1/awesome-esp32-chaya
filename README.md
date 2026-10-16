@@ -98,6 +98,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [ESP32-Calculator](https://github.com/RMNO21/ESP32-Calculator) - Hardware-driven advanced engineering calculator with SSD1306 OLED and matrix keypad running MicroPython, featuring calculus solvers, matrix operations, and function graphing. ([demo](https://github.com/RMNO21/ESP32-Calculator#features))
 - [OpenRUNN](https://github.com/lpolasek/OpenRUNN) - Open-source treadmill running sensor that detects a belt marker with a TCRT5000 and broadcasts speed and distance over BLE RSC; includes a Wi-Fi dashboard and a 3D-printable enclosure. ([demo](https://github.com/lpolasek/OpenRUNN/blob/main/assets/videos/openrunn_live.mp4)) `ESP32-C3-DevKitM-1`
 - [esp_pomodoro_timer](https://github.com/khlebobul/esp_pomodoro_timer) - Orientation-controlled Pomodoro timer that starts one of four presets when placed on a side, pauses when laid flat, and includes a customizable 3D-printable enclosure. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
+- [ESP32 iPhone Agent](https://github.com/onehumanbeing/esp32-iphone-agent) - Lets an AI vision model use a real iPhone: the board plugs into the phone's USB port as a USB mouse and keyboard and takes tap, swipe and type commands over Wi-Fi, while the phone's screen reaches the model through AirPlay mirroring. ([demo](https://www.youtube.com/watch?v=Ly4im-P4jYg)) `Seeed Studio XIAO ESP32S3`
 
 ## Tools, utilities & libraries
 
