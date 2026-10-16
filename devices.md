@@ -144,6 +144,14 @@ The "Cheap Yellow Display": an ESP32-WROOM-32 with a 2.8-inch 320x240 resistive 
 [Product page](https://www.makerfabs.com/sunton-esp32-2-8-inch-tft-with-touch.html) ·
 [community documentation](https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display)
 
+## LCDWIKI E32R28T
+
+ESP32-WROOM-32E with a 2.8-inch 320x240 resistive touch LCD (ILI9341 panel, XPT2046 touch),
+4 MB flash and no PSRAM, one USB-C socket, microSD slot, RGB LED, speaker connector and a
+two-pin battery connector with onboard charging. One of the "Cheap Yellow Display" family;
+the dual-USB ESP32-2432S028 looks almost identical, so count the USB sockets.
+[Product page](https://www.lcdwiki.com/2.8inch_ESP32-32E_Display)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes

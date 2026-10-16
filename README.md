@@ -61,6 +61,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [esp32-fluidbox](https://github.com/V4C38/esp32-fluidbox) - A 3D particle fluid living inside the case of a Waveshare ESP32-S3-Touch-AMOLED-1.8: ~900 particles slosh with the accelerometer as if liquid sat behind the screen. ([demo](https://x.com/JohannesTscharn/status/2085248949061922855)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [puck apps](https://github.com/s0lness/puck/tree/master/apps) - Clock, connect 4, and friends: small apps written once against the puck convention, each running on both the Waveshare ESP32-S3-Touch-AMOLED-1.8 and the RP2350-Touch-AMOLED-1.8. ([live gallery](https://puck.sylve.org)) `Waveshare ESP32-S3-Touch-AMOLED-1.8` and `Waveshare RP2350-Touch-AMOLED-1.8`
 - [67](https://github.com/canwar-dj/67) - Throw-and-catch party game for a Waveshare ESP32-S3-Touch-AMOLED-2.06; the screen flickers random numbers while airborne and locks in on catch, landing on a red 67 one time in five to pick a loser. ([demo](https://x.com/kanwardigvijay/status/2090090888659898500)) `Waveshare ESP32-S3-Touch-AMOLED-2.06`
+- [Braino](https://github.com/iamankushpandit/Gume) - A 40-game learning console for young players, from early maths and flags to full-rules Chess, Go, Backgammon and Ludo, where two consoles play each other over a 31-byte BLE advertisement with no pairing; builds for five Cheap Yellow Display boards and flashes from a browser. ([demo](https://www.youtube.com/shorts/uudDh8QGjKI)) `LCDWIKI E32R28T`
 
 ### Robots
 
