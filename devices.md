@@ -163,6 +163,11 @@ two-pin battery connector with onboard charging. One of the "Cheap Yellow Displa
 the dual-USB ESP32-2432S028 looks almost identical, so count the USB sockets.
 [Product page](https://www.lcdwiki.com/2.8inch_ESP32-32E_Display)
 
+## GeekMagic SmallTV Pro
+
+Classic ESP32 with 8 MB flash behind a 1.54-inch 240x240 ST7789 IPS screen, a capacitive touch pad on top of the case, and USB-C for power only (no USB data), so firmware goes on over the stock firmware's Wi-Fi update page.
+[Product page](https://geekmagic.com/products/geekmagic-ultra)
+
 ## No single device
 
 These projects name no device, and inventing one would misrepresent them. What each takes
