@@ -53,11 +53,6 @@ ESP32-S3 (WROOM-1-N16R8), 4.2-inch 400x300 reflective LCD (ST7305), ES8311 audio
 temperature and humidity sensor, battery support.
 [Product page](https://www.waveshare.com/esp32-s3-rlcd-4.2.htm)
 
-## Waveshare ESP32-S3-ePaper-1.54G
-
-ESP32-S3 with a 1.54-inch 4-color e-paper panel (200×200, red/yellow/black/white), button, battery support, and USB-C.
-[Product page](https://www.waveshare.com/esp32-s3-epaper-1.54g.htm)
-
 ## Waveshare RP2350-Touch-AMOLED-1.8
 
 The same 368x448 touch AMOLED shell as the ESP32-S3 board, on an RP2350 instead. Present
@@ -73,6 +68,11 @@ ESP32-P4 with wired Ethernet and an ESP32-C6 radio co-processor.
 
 ESP32-P4 dev kit driving a 7-inch DSI touch panel.
 [Product page](https://www.waveshare.com/esp32-p4-module-dev-kit.htm)
+
+## Waveshare ESP32-C6-LCD-1.47
+
+ESP32-C6, 1.47-inch 172x320 ST7789 LCD, RGB LED, microSD slot.
+[Product page](https://www.waveshare.com/esp32-c6-lcd-1.47.htm)
 
 ## M5StickS3
 
@@ -118,6 +118,19 @@ ESP32-P4 with an ESP32-C6 radio co-processor for Wi-Fi 6, a 5-inch 1280x720 MIPI
 touch screen, a 2MP MIPI-CSI camera, ES8388 audio codec with dual microphones and a
 speaker, and a removable NP-F550 battery.
 [Product page](https://shop.m5stack.com/products/m5stack-tab5-iot-development-kit-esp32-p4)
+
+## M5Stack Cardputer
+
+Card-sized keyboard computer: M5StampS3 (ESP32-S3FN8, 8 MB flash, no PSRAM), 1.14-inch
+240x135 LCD, 56-key keyboard, microphone, speaker, IR transmitter and a microSD slot.
+[Product page](https://docs.m5stack.com/en/core/Cardputer)
+
+## M5Stack Cardputer-Adv
+
+Revision of the Cardputer on an M5StampS3A (ESP32-S3FN8, no PSRAM) with the same 240x135
+screen, a TCA8418 keyboard controller and an ES8311 audio codec: keyboard and audio drivers
+do not carry over from the original.
+[Product page](https://docs.m5stack.com/en/core/Cardputer-Adv)
 
 ## Ulanzi Smart Pixel Clock TC001
 

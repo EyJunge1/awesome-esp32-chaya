@@ -54,6 +54,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [bird-feeder-esp32](https://github.com/iammartinj/bird-feeder-esp32) - A window onto a garden bird feeder where eleven kinds of visitor come and go through the day: the feeder hangs as a damped pendulum that every landing sets swinging, the branch above it bends in the wind, each bird's size comes from a depth map of the photograph, and the light follows the real-time clock from morning to night and autumn to winter. ([demo](https://github.com/iammartinj/bird-feeder-esp32/blob/main/docs/on-the-board-clip.webp)) `Waveshare ESP32-S3-Touch-AMOLED-1.8`
 - [AI Monitor](https://github.com/tobymarks/esp32-ai-monitor) - Desk display for Claude, ChatGPT, Gemini, GitHub Copilot, Cursor and Antigravity usage limits, shown as rings or bars with reset countdowns and fed over USB serial by a macOS (or beta Windows) companion app that also flashes the firmware. ([demo](https://tobymarks.github.io/esp32-ai-monitor/assets/display-chatgpt-front.jpg)) `Sunton ESP32-2432S028R`
 - [esp_busy_tag](https://github.com/khlebobul/esp_busy_tag) - Open-source Busy Tag alternative that shows a FREE/BUSY/MEETING availability sign full-screen, switched with the onboard button or driven from a computer over USB serial, with a printable table dock. `Waveshare ESP32-S3-Touch-AMOLED-1.8`
+- [esp-notify](https://github.com/fkhadra/esp-notify) - Desk status monitor that polls GitHub, Cloudflare, Tailscale, Anthropic and OpenAI status pages, shows the worst severity on an RGB LED, and displays notifications pushed over HTTP. ([demo](https://github.com/fkhadra/esp-notify/blob/main/docs/images/status-list.jpg)) `Waveshare ESP32-C6-LCD-1.47`
 
 ### Play
 
@@ -112,6 +113,7 @@ Elsewhere, write-ups by @ardchain posted as threads on X (third-party, not repo 
 - [ESPHome](https://github.com/esphome/esphome) - Describe a device in YAML, get firmware; the default way ESP32s enter Home Assistant.
 - [Family mruby](https://github.com/family-mruby/family-mruby) - Multitasking OS running mruby, MicroPython, Lua and BASIC on the chip, with a windowed desktop and an on-device editor. ([demo](https://www.youtube.com/watch?v=9vkRaOoxJJI)) `M5Stack Tab5` or `Narya board`
 - [OnlyClaws ESP](https://github.com/shinjiyu/onlyclaws-esp) - Firmware you flash once, after which an AI agent deploys Lua apps to the board over HTTP to draw on the screen, play sound, read sensors and report events back. ([demo](https://www.bilibili.com/video/BV179p76zEQN/)) `Waveshare ESP32-S3-RLCD-4.2`
+- [NucleoOS](https://github.com/indecenti/NucleoOs) - Operating system for a keyboard handheld with no PSRAM: a native launcher with 50+ apps and games, a full desktop the device serves to the browser, an offline assistant written in C, and its own Game Boy and Game Gear emulators. ([demo](https://github.com/indecenti/NucleoOs/blob/main/docs/screenshots/nucleoos-cardputer-adv.jpg)) `M5Stack Cardputer` or `M5Stack Cardputer-Adv`
 
 ### Utilities & SDKs
 
